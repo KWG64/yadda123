@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo RJ FHD
 http://pfsv.io:80/574838268/0296/352
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo RJ FHD[H265]
-http://pfsv.io:80/574838268/0296/30204
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo RJ HD
 http://pfsv.io:80/574838268/0296/392
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo RJ HD Lagos
 http://pfsv.io:80/574838268/0296/43777
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/C",Globo RJ SD
-http://pfsv.io:80/574838268/0296/427
 #EXTINF:-1 group-title="Canais | BBB 2022",BBB 1
 http://pfsv.io:80/574838268/0296/107661
 #EXTINF:-1 group-title="Canais | BBB 2022",BBB 2
@@ -33,60 +29,42 @@ http://pfsv.io:80/574838268/0296/107669
 http://pfsv.io:80/574838268/0296/107670
 #EXTINF:-1 group-title="Canais | BBB 2022" tvg-logo="http://logos.pfsv.io/afazend.png",BBB Mosaico
 http://pfsv.io:80/574838268/0296/92855
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 2 FHD
-http://pfsv.io:80/574838268/0296/525
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 2 FHD [H265]
-http://pfsv.io:80/574838268/0296/30284
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/J",Telecine Action HD
+http://pfsv.io:80/574838268/0296/568
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://p6.vc/J",Telecine Action HD [LEG]
+http://pfsv.io:80/574838268/0296/219
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/P",Telecine Cult HD
+http://pfsv.io:80/574838268/0296/569
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://p6.vc/P",Telecine Cult HD [LEG]
+http://pfsv.io:80/574838268/0296/246
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/K",Telecine Fun HD
+http://pfsv.io:80/574838268/0296/570
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://p6.vc/K",Telecine Fun HD [LEG]
+http://pfsv.io:80/574838268/0296/221
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/L",Telecine Pipoca HD
+http://pfsv.io:80/574838268/0296/572
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://p6.vc/L",Telecine Pipoca HD [LEG]
+http://pfsv.io:80/574838268/0296/223
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/M",Telecine Premium HD
+http://pfsv.io:80/574838268/0296/573
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://p6.vc/M",Telecine Premium HD [LEG]
+http://pfsv.io:80/574838268/0296/225
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://p6.vc/N",Telecine Touch HD
+http://pfsv.io:80/574838268/0296/571
+#EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://p6.vc/N",Telecine Touch HD [LEG]
+http://pfsv.io:80/574838268/0296/227
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 2 HD
 http://pfsv.io:80/574838268/0296/531
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 2 SD
-http://pfsv.io:80/574838268/0296/538
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 3 FHD
-http://pfsv.io:80/574838268/0296/526
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 3  FHD [H265]
-http://pfsv.io:80/574838268/0296/30285
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 3 HD
 http://pfsv.io:80/574838268/0296/532
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 3 SD
-http://pfsv.io:80/574838268/0296/539
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 4 FHD
-http://pfsv.io:80/574838268/0296/527
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 4 FHD [H265]
-http://pfsv.io:80/574838268/0296/30288
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 4 HD
 http://pfsv.io:80/574838268/0296/533
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 4 SD
-http://pfsv.io:80/574838268/0296/540
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 5 FHD
-http://pfsv.io:80/574838268/0296/528
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 5 FHD [H265]
-http://pfsv.io:80/574838268/0296/30286
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 5 HD
 http://pfsv.io:80/574838268/0296/534
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 5 SD
-http://pfsv.io:80/574838268/0296/541
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 6 FHD
-http://pfsv.io:80/574838268/0296/529
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 6 FHD [H265]
-http://pfsv.io:80/574838268/0296/30289
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 6 HD
 http://pfsv.io:80/574838268/0296/535
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 6 SD
-http://pfsv.io:80/574838268/0296/542
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 7 FHD
-http://pfsv.io:80/574838268/0296/530
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 7 FHD [H265]
-http://pfsv.io:80/574838268/0296/30290
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 7 HD
 http://pfsv.io:80/574838268/0296/536
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere 7 SD
-http://pfsv.io:80/574838268/0296/543
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/1",Premiere Club [4K]
-http://pfsv.io:80/574838268/0296/584
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere Clubes FHD
-http://pfsv.io:80/574838268/0296/524
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere Clubes FHD [H265]
-http://pfsv.io:80/574838268/0296/30287
 #EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://p6.vc/1",Premiere Clubes HD
 http://pfsv.io:80/574838268/0296/537
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 01 HD [D]
@@ -95,46 +73,24 @@ http://pfsv.io:80/574838268/0296/65585
 http://pfsv.io:80/574838268/0296/65586
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 03 HD [D]
 http://pfsv.io:80/574838268/0296/65587
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 1 FHD [B]
-http://pfsv.io:80/574838268/0296/65565
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 1 FHD [C]
-http://pfsv.io:80/574838268/0296/65573
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 1 HD [A]
 http://pfsv.io:80/574838268/0296/65561
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 1 HD [B]
 http://pfsv.io:80/574838268/0296/65569
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 1 HD [C]
 http://pfsv.io:80/574838268/0296/65577
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 1 SD [C]
-http://pfsv.io:80/574838268/0296/65581
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol  TV 2 FHD [B]
-http://pfsv.io:80/574838268/0296/65566
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 2 FHD [C]
-http://pfsv.io:80/574838268/0296/65574
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 2 HD [A]
 http://pfsv.io:80/574838268/0296/65562
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 2 HD [B]
 http://pfsv.io:80/574838268/0296/65570
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 2 HD [C]
 http://pfsv.io:80/574838268/0296/65578
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 2 SD [C]
-http://pfsv.io:80/574838268/0296/65582
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 3 FHD [B]
-http://pfsv.io:80/574838268/0296/65567
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 3 FHD [C]
-http://pfsv.io:80/574838268/0296/65575
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 3 HD [A]
 http://pfsv.io:80/574838268/0296/65563
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 3 HD [B]
 http://pfsv.io:80/574838268/0296/65571
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 3 HD [C]
 http://pfsv.io:80/574838268/0296/65579
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 3 SD [C]
-http://pfsv.io:80/574838268/0296/65583
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 4 FHD [B]
-http://pfsv.io:80/574838268/0296/65568
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 4 FHD [C]
-http://pfsv.io:80/574838268/0296/65576
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 4 HD [A]
 http://pfsv.io:80/574838268/0296/65564
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 4 HD [B]
@@ -143,38 +99,6 @@ http://pfsv.io:80/574838268/0296/65572
 http://pfsv.io:80/574838268/0296/65580
 #EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 4 HD [D]
 http://pfsv.io:80/574838268/0296/65588
-#EXTINF:-1 group-title="Canais | Conmebol" tvg-logo="http://p6.vc/ca",Conmebol TV 4 SD [C]
-http://pfsv.io:80/574838268/0296/65584
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://p6.vc/ca",Conmebol [4K]
-http://pfsv.io:80/574838268/0296/49110
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/BTSport1HD.png",BT Sport 1 (A)
-http://212.224.98.208:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=RED
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/BTSport1HD.png",BT Sport 1 (B)
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png",Astro Supersport 4 (A)
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/151
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png",Astro Supersport 4 (B)
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4_B" tvg- logo="https://i.ibb.co/y04NgZ9/GSDFGD.png",Astro Supersport 4 (C)
-http://159.192.73.198:1072/astro4
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png",Astro Supersport 4 (D)
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png",Astro Supersport 4 (E)
-http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHVJj/22943.ts
-#EXTINF: -1 tvg-id="WWENetwork(English).ca(m3u4u)" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE Network (A)
-http://my.odtv.uk:80/live/1914319651/9625043602/140.ts
-#EXTINF: -1 tvg-id="WWENetwork(English).ca(m3u4u)" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE Network (B)
-http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHVJj/23080.ts
-#EXTINF: -1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE PPV (A)
-http://iptv.tvmalaysia.cc/live/penang172/penang172/6849.ts
-#EXTINF: -1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE PPV (B)
-http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHVJj/9664.ts
-#EXTINF: -1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE PPV (C)
-http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHVJj/34073.ts
-#EXTINF: -1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE PPV (D)
-http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHVJj/28605.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303",Impact Wrestling
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AEW_Logo_(simplified).svg/1200px-AEW_Logo_(simplified).svg.png" , ALL ELITE WRESTLING 1
