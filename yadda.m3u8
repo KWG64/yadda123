@@ -1,7 +1,54 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://imgur.com/aVvaYBI.jpg" group-title="Informações da Lista" ,Atualizada 17/02/2022
+
+http://
+
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="Informações da Lista" ,By PLAY-FLIX HD
+
+http://
+
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stD7hR7_d.jpg" group-title="💵💵LISTA PREMIUM💵💵" ,ADQUIRA SUA LISTA PREMIUM
+
+http://
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stD7hR7_d.jpg" group-title="💵💵LISTA PREMIUM💵💵" ,A PARTIR DE 20$ REAIS 
+
+http://
+
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stD7hR7_d.jpg" group-title="💵💵LISTA PREMIUM💵💵" ,CANAIS SD+HD+FHD+4K+FILMES E SÉRIES
+
+http://
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stD7hR7_d.jpg" group-title="💵💵LISTA PREMIUM💵💵" ,PEÇA SEU TESTE GRÁTIS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3Ue6fDd.jpg" group-title="💵💵LISTA PREMIUM💵💵" ,+55 (81) 995399037
+
+http://
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-1-1.png" group-title="CANAL EDSON-FLIX TV" ,CANAL EDSON-FLIX TV
+
+https://www.youtube.com/channel/UC_6zo6UPX5Eri48zf3qdoPw
+
+################################################
+
 #EXTINF:-1 tvg-id="bbb" tvg-name="BIG BROTHER BRASIL HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="REALITY SHOW",BBB CAM PRINCIPAL HD
 https://livebr-globo.myedgecast.com/d/s/hls-bbb01/playlist.m3u8?hdnts=ur6nOqaN4-jZ2GD1UfL6d_XK-vw-xfdhDLFfkAV4C7TVXdExpx2exxLmI9i_ADIbi-0COIYv7HdKH5SjGhvr_9d7UoZcsONqwlgZbw
+
+
+#EXTINF:-1 tvg-id="Agro Brasil" tvg-name="AGRO BRASIL HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS ABERTOS",AGRO BRASIL HD
+
+http://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w1899906093.m3u8
+
+#EXTINF:-1 tvg-id="Agro Mais" tvg-name="AGRO MAIS HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS ABERTOS",AGRO MAIS HD
+
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/chunklist_w1204720303.m3u8
 
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="CANAIS ABERTOS",BAND SP HD
 
